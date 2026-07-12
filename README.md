@@ -12,7 +12,7 @@ level1 con problproblemas de texturas y fallos de escala y generacion
 ...
 
 ## Entidades
-1- Smiler
+1- Smiler \n
 2- Bacteria (con errores)
 
 ## Objetos
