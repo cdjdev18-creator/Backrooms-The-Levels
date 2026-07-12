@@ -26,7 +26,7 @@ Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo q
 2. Dolor Líquido
 
 ## Capturas
-<img width="1918" height="1078" alt="imagen" src="https://github.com/user-attachments/assets/8746a5a4-3d14-4326-8809-6aef529823c1" />
+<img width="959" height="538" alt="imagen" src="https://github.com/user-attachments/assets/8746a5a4-3d14-4326-8809-6aef529823c1" />
 
 
 ## Contacto
