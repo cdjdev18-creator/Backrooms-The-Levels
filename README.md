@@ -1,28 +1,30 @@
 # Backrooms The Levels
 
-Bienvenido al proyecto. el juego esta incompleto y son versiones beta y se esperan bugs y errores
+Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo que se esperan bugs y errores.
 
 ## Descarga
 
-...
+Próximamente.
 
 ## Niveles
-level0 con se esperan errores y erores en objetos
-level1 con problproblemas de texturas y fallos de escala y generacion
-...
+
+- Level 0: Se esperan errores en objetos.
+- Level 1: Problemas de texturas, fallos de escala y generación.
 
 ## Entidades
-1- Smiler \n
-2- Bacteria (con errores)
+
+1. Smiler
+2. Bacteria (con errores)
 
 ## Objetos
-1- Agua de almendras
-2- Dolor liquido
 
-...
+1. Agua de Almendras
+2. Dolor Líquido
 
 ## Capturas
 
-...
+Próximamente.
 
-## Contacto: cdj.dev.18@gmail.com
+## Contacto
+
+📧 cdj.dev.18@gmail.com
