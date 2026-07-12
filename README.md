@@ -5,8 +5,9 @@ Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo q
 ## Descarga
 ## Descargas
 
-- **Versión 0.01 Beta - Prueba 1** — [Descargar](https://drive.google.com/file/d/1bpnSvSw4drFYRW8eoCeh2Mh50QOCk7jc/view?usp=drive_link)
+- **Versión 0.0.1 Beta - Prueba 1 fallida** — [Descargar](https://drive.google.com/file/d/1bpnSvSw4drFYRW8eoCeh2Mh50QOCk7jc/view?usp=drive_link)
 
+- **Versión 0.0.2 Beta - Prueba 2** — [Descargar](https://drive.google.com/file/d/1GmOBgycXAjCLLhf7A70CoieTvJMx7Xyr/view?usp=sharing)
 
 
 ## Niveles
