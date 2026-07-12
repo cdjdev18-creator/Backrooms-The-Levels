@@ -3,8 +3,11 @@
 Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo que se esperan bugs y errores.
 
 ## Descarga
+## Descargas
 
-Próximamente.
+- **Versión 0.01 Beta - Prueba 1** — [Descargar](https://drive.google.com/file/d/1bpnSvSw4drFYRW8eoCeh2Mh50QOCk7jc/view?usp=drive_link)
+
+
 
 ## Niveles
 
