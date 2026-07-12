@@ -1,2 +1,19 @@
-# Backrooms-The-Levels
-is a game
+# Backrooms The Levels
+
+Bienvenido al proyecto.
+
+## Descarga
+
+...
+
+## Niveles
+
+...
+
+## Entidades
+
+...
+
+## Capturas
+
+...
