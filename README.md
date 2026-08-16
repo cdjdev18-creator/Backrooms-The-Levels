@@ -1,7 +1,6 @@
 # Backrooms The Levels
 Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo que se esperan bugs y errores.
 
-> [!NOTE]
 > ### Descargas Disponibles
 > - **Versión 0.0.1 Beta - Prueba 1 fallida** — <a href="https://drive.google.com/file/d/1bpnSvSw4drFYRW8eoCeh2Mh50QOCk7jc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Descargar</a>
 > - **Versión 0.0.2 Beta - Prueba 2** — <a href="https://drive.google.com/file/d/1GmOBgycXAjCLLhf7A70CoieTvJMx7Xyr/view?usp=sharing" target="_blank" rel="noopener noreferrer">Descargar</a>
