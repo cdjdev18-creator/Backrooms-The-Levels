@@ -8,7 +8,7 @@ Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo q
 - **Versión 0.0.1 Beta - Prueba 1 fallida** — [Descargar](https://drive.google.com/file/d/1bpnSvSw4drFYRW8eoCeh2Mh50QOCk7jc/view?usp=drive_link)
 
 - **Versión 0.0.2 Beta - Prueba 2** — [Descargar](https://drive.google.com/file/d/1GmOBgycXAjCLLhf7A70CoieTvJMx7Xyr/view?usp=sharing)
-
+- **Versión 0.3.7 - Mudacion a Unity** — [Descargar](https://drive.google.com/file/d/1GmOBgycXAjCLLhf7A70CoieTvJMx7Xyr/view?usp=sharing)
 
 ## Niveles
 
@@ -25,8 +25,8 @@ Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo q
 1. Agua de Almendras
 2. Dolor Líquido
 
-## Capturas
-<img width="959" height="538" alt="imagen" src="https://github.com/user-attachments/assets/8746a5a4-3d14-4326-8809-6aef529823c1" />
+## Captura Única de Beta
+<img width="319" height="179" alt="imagen" src="https://github.com/user-attachments/assets/8746a5a4-3d14-4326-8809-6aef529823c1" />
 
 
 ## Contacto
