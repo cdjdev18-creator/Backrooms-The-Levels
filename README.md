@@ -7,7 +7,7 @@ Bienvenido al proyecto. El juego está incompleto y son versiones beta, por lo q
 > - **Versión 0.3.7 - Mudación a Unity** — <a href="https://http.cat/status/404" target="_blank" rel="noopener noreferrer">Descargar</a>
 > - **Versión 0.4.7 - Implementacion de Multijugador (SE ESPERAN ERRORES)** — <a href="https://drive.google.com/file/d/1QGnuLucYPqgH_G16FJ01-xeWRFy8Kumn/view?usp=sharing" rel="noopener noreferrer">Descargar</a>
 
-> - Proyectó Completo - <a href= "https://drive.google.com/file/d/1nrPyyPIeozrBR-VRUYvWsIlSrvDS_fvf/view?usp=sharing" _green >Descargar</a>
+> - Proyectó Completo **NO ACTUALIZADO** - <a href= "https://drive.google.com/file/d/1nrPyyPIeozrBR-VRUYvWsIlSrvDS_fvf/view?usp=sharing" _green >Descargar</a>
 
 ## Niveles
 - Level 0: Se esperan errores en objetos.
